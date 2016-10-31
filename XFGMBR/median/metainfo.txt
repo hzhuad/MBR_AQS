@@ -1,0 +1,16 @@
+
+Name of Quantlet: Median Spread and Volatility
+
+Published in: Applied Quantitative Finance (3rd Edition)
+
+Description: Comparison of median spread and median volatility of all cluster groups based on MBR Method.
+
+Keywords: clustering, median, kmeans, volatility
+
+Author: Ruey, Tsay and Hanjing, ZHU
+
+Submitted:  Aug.26th, 2016
+
+Datafile: clusterresult.csv, ser.csv
+
+Output: medianspread.png, medianvol.png

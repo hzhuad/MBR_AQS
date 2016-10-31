@@ -1,0 +1,16 @@
+
+Name of Quantlet: Sector
+
+Published in: Applied Quantitative Finance (3rd Edition)
+
+Description: Plot median predicted spread and median predicted volatility of log return of CDS spread for each sector.
+
+Keywords: median, plot, volatility
+
+Author: Ruey, Tsay and Hanjing, ZHU
+
+Submitted:  Aug.26th, 2016
+
+Datafile: logreturnsector.csv
+
+Output: sector.png

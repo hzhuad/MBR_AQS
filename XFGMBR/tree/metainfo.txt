@@ -1,0 +1,16 @@
+
+Name of Quantlet: Tree
+
+Published in: Applied Quantitative Finance (3rd Edition)
+
+Description: Builds tree and pruned tree to see whether S&P ratings is related to some variables we have
+
+Keywords: classification, tree
+
+Author: Ruey, Tsay and Hanjing, ZHU
+
+Submitted: Aug.26th, 2016
+
+Datafile: SPrating.csv
+
+Output: tree.png, prunetree.png

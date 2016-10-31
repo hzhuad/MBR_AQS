@@ -1,0 +1,16 @@
+
+Name of Quantlet: Data Fit of Best Buy 
+
+Published in: Applied Quantitative Finance (3rd Edition)
+
+Description: Fit the data in ARIMA+GARCH models and finds the best model according to AIC, make comparison with the original series and make a one-step ahead prediction. Results are shown in plots.
+
+Keywords: AIC, arma, arch, financial, forecast, plot, time-series
+
+Author: Ruey, Tsay and Hanjing, ZHU
+
+Submitted: Aug.26th, 2016
+
+Datafile: BBY.csv 
+
+Output: BBY.png
